@@ -1,0 +1,38 @@
+body {
+    background-color: lightcyan;
+}
+h1,h2 {
+    text-align: center;
+}
+.btn-container {
+    padding: 0px 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.btn {
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    text-align: center;
+    margin: 1rem 1.5rem;
+}
+.coral {
+    background-color: coral;
+}
+.teal {
+    background-color: teal;
+}
+.orange {
+    background-color: orange;
+}
+.skyblue {
+    background-color: skyblue;
+}
+.flash0 {
+    background-color: white;
+}
+.flash1 {
+    opacity: 0.5;
+}
